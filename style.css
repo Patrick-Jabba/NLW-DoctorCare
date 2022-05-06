@@ -74,6 +74,7 @@ section header h4 {
     color: var(--primary-color);
 
     margin-bottom: 1.6rem;
+    
 
     text-transform: uppercase;
 }
@@ -110,6 +111,9 @@ section .content p {
     border-radius: 4rem;
 
     margin-bottom: 6rem;
+    margin-left: 8rem;
+    
+    
 
     padding: 1.6rem 3.2rem;
     width: fit-content;
@@ -194,6 +198,7 @@ nav button {
     background: none;
     border: none;
     cursor: pointer;
+    
 }
 
 nav .menu,
@@ -272,6 +277,7 @@ body.menu-expanded .menu {
 
     margin-top: 4.8rem;
     margin-bottom: 8rem;
+    margin-left: 0rem;
 }
 
 .menu .button:hover {
