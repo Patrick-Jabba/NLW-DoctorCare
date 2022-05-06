@@ -111,7 +111,7 @@ section .content p {
     border-radius: 4rem;
 
     margin-bottom: 6rem;
-    
+    margin-left: 8rem;
     
     
 
@@ -277,6 +277,7 @@ body.menu-expanded .menu {
 
     margin-top: 4.8rem;
     margin-bottom: 8rem;
+    margin-left: 0rem;
     
 }
 
